@@ -11,3 +11,8 @@ A small project to reproduce the issue reported at https://youtrack.jetbrains.co
 * Copy the docblock for the store() method
 * Go back to src/StorageConvertor.php and paste the docblock to replace the inherited one
 * Attempt to go to the definition of the getId() call on line 27 (this now works)
+
+
+## Screencast
+
+![screencast](https://github.com/duncan3dc/phpstorm-wi-51015/raw/master/screencast.gif)
